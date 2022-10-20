@@ -9,10 +9,20 @@
 
 <h4 >
     What I can work on and with?
+    </h4>
+    <h5>
     - solidity, go, rust
+    </h5>
+    <h5>
     - hardhat, truffle 
+    </h5>
+    <h5>
     - ether.js, web3.js
+    </h5>
+    <h5>
     - subgraph, moralis API
+    </h5>
+    <h5>
     - react.js, next.js
-</h4>
+</h5>
 
