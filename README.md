@@ -24,5 +24,15 @@
     </h5>
     <h5>
     - react.js, next.js
+    
+    <h5>
+    - Defi protocols including lending, borrowing, staking and farming
+    </h5>
+    <h5>
+    - NFT marketplace
+    </h5>
+    <h5>
+    - cross chain using cosmos sdk
+    </h5>
 </h5>
 
