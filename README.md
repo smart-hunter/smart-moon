@@ -24,7 +24,7 @@
     </h5>
     <h5>
     - react.js, next.js
-    
+    </h5>
     <h5>
     - Defi protocols including lending, borrowing, staking and farming
     </h5>
